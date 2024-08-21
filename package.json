@@ -1,0 +1,14 @@
+{
+  "name": "com.bellseboss.servicelocator",
+  "version": "1.0.0",
+  "displayName": "Service Locator to Unity",
+  "description": "Base class to implement a service locator in Unity",
+  "unity": "2021.1",
+  "keywords": ["service", "state", "unity"],
+  "author": {
+    "name": "Luis Plata",
+    "email": "www.luisplata@gmail.com"
+  },
+  "dependencies": {
+  }
+}
