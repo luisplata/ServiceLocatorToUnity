@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine.Assertions;
 
-namespace Plugins.ServiceLocator
+namespace BellsebossStudio.Plugins.ServiceLocator
 {
     /// <summary>
     /// Recomendations:
