@@ -1,6 +1,6 @@
 {
   "name": "com.bellseboss.servicelocator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Service Locator to Unity",
   "description": "Base class to implement a service locator in Unity",
   "unity": "2022.3",
