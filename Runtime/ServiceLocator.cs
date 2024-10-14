@@ -52,9 +52,9 @@ namespace BellsebossStudio.Plugins.ServiceLocator
             _services.Remove(type);
         }
 
-        public void DestroyServices()
+        public void CleanUpServices()
         {
-            _services = new Dictionary<Type, object>();
+            _services.Clear();
         }
     
     }
