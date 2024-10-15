@@ -3,7 +3,7 @@
   "version": "1.0.4",
   "displayName": "Service Locator to Unity",
   "description": "Base class to implement a service locator in Unity",
-  "unity": "2022.3",
+  "unity": "2021.3",
   "keywords": ["service", "state", "unity", "ServiceLocator", "PatterDesing"],
   "author": {
     "name": "Luis Plata",
